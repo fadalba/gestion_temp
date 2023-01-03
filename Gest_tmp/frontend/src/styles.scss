@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+
+
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+#leform
+{
+    display: flex;
+    gap: 2%;
+    background-color: skyblue;
+    padding: 10px 5%;
+}
+
+.form-control 
+{
+    width: 90%;
+    margin-bottom: 12px;
+  
+}
+#fc
+{
+    margin-bottom: 35px;
+}
+
+h1
+{
+   margin-left: 19%;
+}
